@@ -29,7 +29,7 @@ def rotate_image(input_path, output_path, angle):
 
 
 if __name__ == "__main__":
-    print("=== Image Rotator ===")
+    print("\nImage Rotator")
 
     input_path = input("Enter image path: ").strip()
     output_path = input("Enter output image path: ").strip()
