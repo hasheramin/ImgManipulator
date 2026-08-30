@@ -1,73 +1,45 @@
-# ImgManipulator
+<div align="center">
 
-Simple Python image manipulation tools built with **Pillow**.
+<img src="Assets/Logo Used/ImgManipulator.png" alt="ImgManipulator Logo" width="">
 
-## Tools
+# <b>ImgManipulator</b>
 
-* Image Resizer
-* Image Cropper
-* Image Rotator
-* Image Enhancer
-* Image Converter
+`Simple Python toolkit for image manipulation and processing, built with Pillow.`
 
-## Examples
+ImgManipulator is a Python-based toolkit designed to provide simple and practical solutions for working with digital images. It focuses on keeping image processing straightforward, modular, and easy to use.
 
-### Original
+</div>
 
-<p align="center">
-  <img src="Assets/sample.jpg" width="300">
-</p>
+---
 
-### Manipulations
+## Features
 
-<p align="center">
-  <img src="Assets/resize-sample.jpg" width="160">
-  <img src="Assets/crop-sample.jpg" width="160">
-  <img src="Assets/rotate-sample.jpg" width="160">
-  <img src="Assets/enhance-sample.jpg" width="160">
-  <img src="Assets/convert-sample.png" width="160">
-</p>
+- Modular image processing toolkit
+- Simple and practical Python-based utilities
+- Command-line workflow
+- Designed for extensibility and maintainability
+- Built for both learning and practical use
 
-## Installation
+---
 
-```bash
-pip install Pillow
-```
+## Technologies Used
 
-## Usage
+- Python
+- Pillow
 
-```bash
-python ImageTools/ImgReSizer.py
-python ImageTools/ImgCropper.py
-python ImageTools/ImgRotator.py
-python ImageTools/ImgEnhancer.py
-python ImageTools/ImgConverter.py
-```
-
-## Project Structure
-
-```text
-ImgManipulator/
-├── Assets/
-│   ├── sample.jpg
-│   ├── resize-sample.jpg
-│   ├── crop-sample.jpg
-│   ├── rotate-sample.jpg
-│   ├── enhance-sample.jpg
-│   └── convert-sample.png
-│
-├── ImageTools/
-│   ├── ImgReSizer.py
-│   ├── ImgCropper.py
-│   ├── ImgRotator.py
-│   ├── ImgEnhancer.py
-│   └── ImgConverter.py
-│
-├── .gitignore
-├── LICENSE
-└── README.md
-```
+---
 
 ## License
 
-This project is licensed under the **MIT License.**
+This project is licensed under the <b>MIT License</b>.
+
+---
+
+## Connect with Me
+
+<a href="https://X.com/hasheramin_code">
+  <img src="Assets/Logo Used/Twitter.png" alt="X (Twitter) Logo" width="40">
+</a>
+<a href="https://LinkedIn.com/in/hasheramin">
+  <img src="Assets/Logo Used/LinkedIn.png" alt="LinkedIn Logo" width="40">
+</a>
