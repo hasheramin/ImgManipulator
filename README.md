@@ -32,14 +32,3 @@ ImgManipulator is a Python-based toolkit designed to provide simple and practica
 ## License
 
 This project is licensed under the <b>MIT License</b>.
-
----
-
-## Connect with Me
-
-<a href="https://X.com/hasheramin_code">
-  <img src="Assets/Logo Used/Twitter.png" alt="X (Twitter) Logo" width="40">
-</a>
-<a href="https://LinkedIn.com/in/hasheramin">
-  <img src="Assets/Logo Used/LinkedIn.png" alt="LinkedIn Logo" width="40">
-</a>
